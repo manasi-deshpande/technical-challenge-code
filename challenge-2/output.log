@@ -1,0 +1,5 @@
+[ec2-user@ip-172-31-19-94 ~]$ python code.py
+Enter the metadata key : hostname
+Getting the token
+Getting the metdata -
+ip-172-31-19-94.ec2.internal
